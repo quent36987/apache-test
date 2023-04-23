@@ -1,7 +1,6 @@
 version: '3'
 services:
 
-
   keycloak:
     image: quay.io/keycloak/keycloak:latest
     networks:
