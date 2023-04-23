@@ -568,7 +568,7 @@
     "alwaysDisplayInConsole" : false,
     "clientAuthenticatorType" : "client-secret",
     "secret" : "GhnjZRoQ59gN0dNGmDqJThrbenxohknx",
-    "redirectUris" : [ "http://localhost/*" ,"http://localhost/python/*",  "http://localhost/java/*" ],
+    "redirectUris" : [ "http://localhost/*" ,"http://localhost/python/*",  "http://localhost/java/*", "https://localhost/*" ,"https://localhost/python/*",  "https://localhost/java/*" ],
     "webOrigins" : [ ],
     "notBefore" : 0,
     "bearerOnly" : false,
