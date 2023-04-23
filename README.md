@@ -62,3 +62,5 @@ Python app is a minimal python web application that uses [Flask](https://flask.p
 
 Java app is a minimal java web application that uses [Spring Boot](https://spring.io/projects/spring-boot) framework.
 
+#export config
+/opt/keycloak/bin/kc.sh export --dir /opt/keycloak/data --realm easy-sso --users realm_file > conf.json
