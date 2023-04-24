@@ -8,8 +8,8 @@ ST  = Rhone
 L   = Lyon
 O   = Somewhere
 OU  = R&D
-CN  = localhost
+CN  = domain.test
 [req_ext]
 subjectAltName = @alt_names
 [alt_names]
-DNS.1 = localhost
+DNS.1 = domain.test
