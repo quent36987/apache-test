@@ -570,7 +570,7 @@
     "alwaysDisplayInConsole" : false,
     "clientAuthenticatorType" : "client-secret",
     "secret" : "GhnjZRoQ59gN0dNGmDqJThrbenxohknx",
-    "redirectUris" : [ "https://localhost/*", "https://localhost/java/*", "https://domain.test/*", "https://localhost/python/*", "http://localhost/java/*", "http://localhost/*", "http://localhost/python/*" ],
+    "redirectUris" : [ "https://dps.epita.local/*", "https://dps.epita.local/java/*", "https://dps.epita.local/python/*" ],
     "webOrigins" : [ ],
     "notBefore" : 0,
     "bearerOnly" : false,

@@ -8,8 +8,8 @@ ST  = Rhone
 L   = Lyon
 O   = Somewhere
 OU  = R&D
-CN  = domain.test
+CN  = dps.epita.local
 [req_ext]
 subjectAltName = @alt_names
 [alt_names]
-DNS.1 = domain.test
+DNS.1 = dps.epita.local
