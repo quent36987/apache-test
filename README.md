@@ -1,4 +1,4 @@
-# DeadPoetSociety
+# DeadPoetsSociety
 
 This is an OIDC template for a course at EPITA.
 
@@ -47,4 +47,4 @@ about logout.
 # Usefull command
 ## Export keycloack config
 In the container, run :
-`/opt/keycloak/bin/kc.sh export --dir /opt/keycloak/data --realm easy-sso --users realm_file > conf.json`
+`/opt/keycloak/bin/kc.sh export --dir /opt/keycloak/data --realm deadpoetssociety --users realm_file`

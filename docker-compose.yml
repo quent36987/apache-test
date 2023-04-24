@@ -14,9 +14,9 @@ services:
       - "80:80"
       - "443:443"
     environment:
-      OIDC_PROVIDER_METADATA_URL: http://keycloak:8080/realms/easy-sso/.well-known/openid-configuration
+      OIDC_PROVIDER_METADATA_URL: http://keycloak:8080/realms/deadpoetssociety/.well-known/openid-configuration
       OIDC_CLIENT_ID: apache-oidc
-      OIDC_CLIENT_SECRET: GhnjZRoQ59gN0dNGmDqJThrbenxohknx
+      OIDC_CLIENT_SECRET: 654ckxBaivlZkQVOzcyuWrsGnfDxc3mQ
       OIDC_CRYPTO_PASSPHRASE: theMegaPassPhraseOfTheDeath
 
   keycloak:
